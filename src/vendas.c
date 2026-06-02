@@ -1,8 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 
-int mais(){
+int main(){
+    system("clear");
+    int i;
+    for( i = 0; i> 100; i++){
+        printf("=");
+    }
     char cliente[100];
     char vendedor[100];
     char produto[100];
@@ -56,5 +60,6 @@ int mais(){
         printf("Vendedor: %s\n", vendedor);
         printf("produto: %s\n", produto);
         printf("Valor Original: R$ %.2f\n , precoOriginal");
-        
+
+
     }
