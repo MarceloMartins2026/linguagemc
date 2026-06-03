@@ -25,4 +25,16 @@ Vamos listar os itens trabalhados neste repositório:
         -Módulos da linguagem (stdio)
         -Mòdulos do usuário (funcoes.h)
     *Ponteiro
-    *Criação de arquivos0
+    *Criação de arquivos
+
+####Desmonstração de uma estrutura simples de arquivo .c
+
+``` c
+#include <stdio.h>
+int main(){
+    int x = 10;
+    printf(" O valor é %d\n") ,x);
+    return 0;
+}
+```
+    
