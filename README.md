@@ -42,7 +42,7 @@ int main(){
 
 ####Desmonstração de uma estrutura de desvio de fluxo .c
 
-```
+``` c
 #include <stdio.h>
 int main(){
 int i;
