@@ -40,7 +40,7 @@ int main(){
 
 ``` c
 
-####Desmonstração de desvio de fluxo .c
+####Desmonstração de desvio de fluxo  e estrutura de repetição.c
 
 ``` c
 #include <stdio.h>
